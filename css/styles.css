@@ -469,14 +469,6 @@ img {
 
   margin: 80px auto;
   padding: 24px;
-
-  color: #8e8f99;
-  font-family: Roboto;
-  font-size: 12px;
-  font-style: 400;
-  font-weight: 400;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
 }
 .modal-btn {
   display: flex;
@@ -615,7 +607,7 @@ img {
   width: 16px;
   height: 16px;
 
-  display: flex;
+  display: inline-flex;
   justify-content: center;
   align-items: center;
 
