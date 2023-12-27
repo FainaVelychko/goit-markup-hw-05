@@ -603,7 +603,7 @@ button {
 }
 .checkbox:checked + .icon-checkbox-wrap {
   background-color: #404bbf;
-  border-color: none;
+  border: none;
 }
 .checkbox:checked + .icon-checkbox-wrap > .icon-checkbox {
   opacity: 1;
